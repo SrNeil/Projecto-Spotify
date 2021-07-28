@@ -87,7 +87,7 @@ nav.navbar-transparente {
 .caixa {
 	padding-top: 20px;
 	padding-bottom: 20px;
-	height: 100%;
+	min-height: 100%;
 }
 
 #servicos {
